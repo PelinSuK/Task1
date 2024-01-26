@@ -1,0 +1,4 @@
+Başlik: pelin, Yazar: pelin, ISBN: 4544545, Toplam Kopya: 4, Ödünç Alinan Kopya: 3
+Başlik: Tom Sawyer, Yazar: Mark Twain, ISBN: 97899, Toplam Kopya: 3, Ödünç Alinan Kopya: 1
+Başlik: Oliver Twist, Yazar: Charles Dickens, ISBN: 97897, Toplam Kopya: 1, Ödünç Alinan Kopya: 0
+Başlik: Anna Karenina, Yazar: Lev Tolstoy, ISBN: 585545, Toplam Kopya: 2, Ödünç Alinan Kopya: 1
